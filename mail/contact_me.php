@@ -1,4 +1,8 @@
 <?php
+
+action="https://formspree.io/f/xjvdqawo"
+method="POST"
+
 $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 
 // Check for empty fields
