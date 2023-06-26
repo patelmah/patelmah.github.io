@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2021-22
-img: cabin.png
+img: rocket cover.png
 alt: image-alt
 project-date: 2021-22
 client: International Science and Engineering Fair Finalist, Science and Engineering Fair of Houston (SEFH) Engineering Grand Award, SEFH Champion in Aerospace Engineering, SpaceX Special Award, & Houston Museum of Natural Sciences Award
