@@ -3,7 +3,7 @@ title: Mahi Patel
 email: fish1life@gmail.com
 url: https://patelmah.github.io
 description: "Hi! I'm Mahi, a biomedical engineering and computer science student interested in using ethical tech to facilitate healthcare equity. Welcome to my personal portfolio!"
-keywords: "biomedical engineering, technology, health tech, healthcare, equity"
+keywords: "biomedical engineering, technology, health tech, healthcare, equity, student"
 skills: "health tech for social good"
 meta_author: Patel Mahi
 
@@ -48,7 +48,7 @@ social:
  
 # Postal address (add as many lines as necessary)
 address:
-  - line: mahi.patel@duke.edu
+  - line: fish1life@gmail.com
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
