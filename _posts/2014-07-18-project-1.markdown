@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2021-22
+date: 2021-01-01
 img: rocket cover.png
 alt: image-alt
-project-date: 2021-22
+project-date: 2021-01-01
 client: International Science and Engineering Fair Finalist, Science and Engineering Fair of Houston (SEFH) Engineering Grand Award, SEFH Champion in Aerospace Engineering, SpaceX Special Award, & Houston Museum of Natural Sciences Award
 category: Aerospace Engineering
 description: Aerospace is an increasingly important industry. Advances in technology, along with new prospects to explore space, expand scientific knowledge, find new resources, and boost the economy, have made many companies and governments increase their presence in the field. With aerospace access heavily dependent on propulsion, efficient and cost-effective alternatives to chemical combustion can revolutionize space travel. Ion thrusters, one such technology, are remarkably more fuel-efficient and can reach very high speeds in the vacuum of space. They function on the principle of bombarding propellant molecules with electrons to ionize the molecules, creating positively charged cations that accelerate towards a negatively charged anode at the aft of a thruster to produce thrust.  This project encompasses the process of constructing, improving, and modeling the performance of an atmosphere-breathing ion thruster. Improvements in the thruster’s power amplification, cylinder material and radius, and other design aspects increased its thrust force to be 1490% of last year’s thruster, indicating a statistically significant improvement (p<0.0005). Additionally, a mathematical model was derived to predict the thruster’s performance in various atmospheric conditions in which thrusters are or will be used, such as Earth’s upper troposphere, Earth’s lower exosphere, and Mars. The thruster serves not only as a proof-of-concept of the significant improvements in efficiency that can be made without unbelievably large amounts of new resources but also of the mathematical processes that can be used to better assess how propulsion systems can facilitate the rapidly-advancing space exploration of today’s age. 
